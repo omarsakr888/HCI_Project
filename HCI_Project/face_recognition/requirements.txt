@@ -1,0 +1,15 @@
+# face_recognition & its models
+face_recognition
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models
+opencv-python
+numpy
+
+# DeepFace for age/gender analysis
+deepface
+tf-keras
+
+# Downgrade setuptools to keep pkg_resources
+setuptools==81.0.0
+
+# Gaze tracker
+dlib

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|c:\\users\\omart\\onedrive\\desktop\\msa\\hci\\project\\versions\\hci_project\\hci_project\\hci_project\\formguardble\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|solutionrelative:hci_project\\formguardble\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\hci_project\\idlestandbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hci_project\\idlestandbyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|solutionrelative:HCI_Project\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\hci_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C9C0591-403A-4B70-B1FA-2F508127E236}|HCI_Project\\HCI_Project.csproj|solutionrelative:hci_project\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HCI_Project\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\LoginForm.cs",
+              "RelativeToolTip": "HCI_Project\\LoginForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:25:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HCI_Project\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\HCI_Project\\HCI_Project\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\HCI_Project\\HCI_Project\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:25:50.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdleStandbyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\IdleStandbyForm.cs",
+              "RelativeDocumentMoniker": "HCI_Project\\IdleStandbyForm.cs",
+              "ToolTip": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\HCI_Project\\HCI_Project\\IdleStandbyForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\HCI_Project\\HCI_Project\\IdleStandbyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T01:25:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\FormGuardBle\\config.py",
+              "RelativeDocumentMoniker": "HCI_Project\\FormGuardBle\\config.py",
+              "ToolTip": "C:\\Users\\omart\\OneDrive\\Desktop\\MSA\\Hci\\Project\\Versions\\HCI_Project\\HCI_Project\\HCI_Project\\FormGuardBle\\config.py",
+              "RelativeToolTip": "HCI_Project\\FormGuardBle\\config.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-17T00:59:12.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
